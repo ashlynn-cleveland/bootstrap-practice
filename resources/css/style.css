@@ -1,0 +1,27 @@
+/* universal styles */
+
+#prof-pic {
+    height: 150px;
+    width: 88px;
+    border-radius: 18px;
+    overflow: hidden;
+    margin: 10px 0 10px 15px;
+}
+
+.width {
+    width: 288px;
+}
+
+img {
+    height: 300px;
+}
+
+
+/* card styles */
+
+.card-container {
+    display: flex;
+    justify-content: row;
+    justify-content: space-between;
+    margin: 20px;
+}
